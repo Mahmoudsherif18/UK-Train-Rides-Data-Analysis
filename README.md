@@ -1,7 +1,7 @@
-# UK-Train-Rides-Analysis-&-Visualizations 
+# UK-Train Rides Analysis &Visualizations 
 ![illustration-train-railroad_863013-88608](https://github.com/user-attachments/assets/cbb5a6bb-d188-451b-840a-8fbd6c50bfd0)
 🚆 Unleash the Power of Data: Insights from UK Train Analysis 🚆
-# Meet-the-team
+# Meet the team
 - Mohamed Ahmed Moawad
 - Mahmoud Sherif Saber
 - Shaimaa Ahmed Hamed
